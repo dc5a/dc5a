@@ -17,10 +17,10 @@ html th {
 }
 .sc2 {
 	position: absolute;
-	left: 0px;
+	left: 20px;
 	top: 0px;
 	height: 120px;
-	right: 0px;
+	right: 20px;
 	background: #333;
 }
 .sc a {
