@@ -11,7 +11,7 @@ html th {
 	position: absolute;
 	left: 20px;
 	top: 0px;
-	height: 35px;
+	height: 50px;
 	right: 0px;
 	background: #333;
 }
@@ -19,7 +19,7 @@ html th {
 	position: absolute;
 	left: 0px;
 	top: 0px;
-	height: 35px;
+	height: 50px;
 	right: 0px;
 	background: #333;
 }
@@ -29,7 +29,9 @@ html th {
 	float: left;
 	font-family: Arial, sans-serif;
 	text-decoration: none;
+	font-size: 20pX;
 }
 .sc1 a {
 	float: right;
+	font-size: 20pX;
 }
