@@ -1,0 +1,35 @@
+html table {
+	border-radius: 8px;
+	font-size: 20px;
+	border: 4px solid green;
+}
+
+html th {
+	font-size: 21px;
+}
+.sc {
+	position: absolute;
+	left: 10px;
+	top: 0px;
+	height: 35px;
+	right: 0px;
+	background: #333;
+}
+.sc2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 35px;
+	right: 0px;
+	background: #333;
+}
+.sc a {
+	padding: 10px 15px;
+	color: #fff;
+	float: left;
+	font-family: Arial, sans-serif;
+	text-decoration: none;
+}
+.sc1 a {
+	float: right;
+}
